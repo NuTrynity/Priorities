@@ -1,0 +1,10 @@
+idea_categories = {
+    priority_ideas = {
+	    slot = Political
+		slot = Military
+		slot = Industry
+		
+		cost = 0
+		removal_cost = 0
+	}
+}

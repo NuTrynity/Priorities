@@ -1,0 +1,33 @@
+spriteTypes = {
+#political
+    spriteType = {
+	    name = "GFX_idea_political_power"
+		texturefile = "gfx\interface\ideas\political_power.dds"
+	}
+	spriteType = {
+	    name = "GFX_idea_political_people"
+		texturefile = "gfx\interface\ideas\political_people.dds"
+	}
+#military
+    spriteType = {
+	    name = "GFX_idea_military_defense"
+		texturefile = "gfx\interface\ideas\military_defense.dds"
+	}
+	spriteType = {
+	    name = "GFX_idea_military_offense"
+		texturefile = "gfx\interface\ideas\military_offense.dds"
+	}
+#industry
+    spriteType = {
+	    name = "GFX_idea_industry_building"
+		texturefile = "gfx\interface\ideas\industry_building.dds"
+	}
+	spriteType = {
+	    name = "GFX_idea_industry_production"
+		texturefile = "gfx\interface\ideas\industry_production.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_research_priority"
+		texturefile = "gfx\interface\ideas\research_priority.dds"
+	}
+}

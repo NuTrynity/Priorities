@@ -1,0 +1,16 @@
+﻿l_english:
+
+priority_ideas: "Priority Ideas"
+
+Political: "Political"
+    prioritize_political_power: "Prioritize Political Power"
+    prioritze_the_people: "Prioritize The People"
+
+Military: "Military"
+    prioritize_defensive_army: "Prioritize Defensive Tactics"
+    prioritize_offensive_army: "Prioritize Offensive Tactics"
+    
+Industry: "Industry"
+    prioritize_construction: "Prioritize Construction"
+    prioritize_factory_output: "Prioritize Factory Output"
+    prioritize_research: "Prioritize Research and Education"
